@@ -29,7 +29,7 @@
     "@nestjsx/crud": "^4.4.1",
     "@visurel/nest-crud-mongoose": "^4.3.0-beta.2",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "mongoose": "^5.8.11",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
