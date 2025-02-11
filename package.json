@@ -20,12 +20,12 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^6.7.2",
+    "@nestjs/common": "^11.0.9",
     "@nestjs/core": "^6.7.2",
     "@nestjs/mongoose": "^6.3.1",
     "@nestjs/platform-express": "^11.0.9",
     "@nestjs/swagger": "^4.2.6",
-    "@nestjs/typeorm": "^6.2.0",
+    "@nestjs/typeorm": "^11.0.0",
     "@nestjsx/crud": "^4.4.1",
     "@visurel/nest-crud-mongoose": "^4.3.0-beta.2",
     "class-transformer": "^0.2.3",
